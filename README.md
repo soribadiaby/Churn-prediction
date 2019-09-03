@@ -4,7 +4,7 @@ The goal of this project is to predict customer Churn rate for a Telecom company
 
 ## Run the code
 To see the project and run the code run "Telco-customer-churn.ipynb".
-The file "WA_Fn-UseC_-Telco-Customer-Churn.csv" contains the dataset
+The file "data/WA_Fn-UseC_-Telco-Customer-Churn.csv" contains the dataset
 ## Models
 + Logistic Regression
 + Decision Tree
