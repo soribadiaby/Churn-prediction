@@ -11,6 +11,7 @@ The file "data/WA_Fn-UseC_-Telco-Customer-Churn.csv" contains the dataset
 + Support Vector Machines
 ## Metric
 The metric used to evaluate the quality of the model is Area Under ROC Curve, its value is between 0 and 1. Higher the AUC, better the model is at predicting 0s as 0s and 1s as 1s
+
 <img src="img/AUC.png">
 ## Results
 + Retained model : Logistic Regression with C=10
