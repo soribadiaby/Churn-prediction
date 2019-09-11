@@ -10,10 +10,10 @@ The file "data/WA_Fn-UseC_-Telco-Customer-Churn.csv" contains the dataset
 + Decision Tree
 + Support Vector Machines
 ## Metric
-<p>The metric used to evaluate the quality of the model is <a href="http://fouryears.eu/2011/10/12/roc-area-under-the-curve-explained/">Area Under ROC Curve</a> (exemple <a href="https://blogs.sas.com/content/iml/2011/07/29/computing-an-roc-curve-from-basic-principles.html">here</a>), its value is between 0 and 1. Higher the AUC, better the model is at predicting 0s as 0s and 1s as 1s.
+<p>The metric used to evaluate the quality of the model is <a href="http://fouryears.eu/2011/10/12/roc-area-under-the-curve-explained/">Area Under ROC Curve</a>, its value is between 0 and 1. Higher the AUC, better the model is at predicting 0s as 0s and 1s as 1s.
 "The area under ROC curve specifies the probability that, when we draw one positive and one negative example at random, the decision function assigns a higher value to the positive than to the negative example."</p>
 
-<p>Why use this metric instead of accuracy ? : this is because having a good accuracy doesn't necessarily means it's a good classifier (e.g in case of high class imbalance 0.9 1's and 0.1 0's, a classifier that predict only 1's will get a 90% accuracy)</p>
+<p>Why use this metric instead of accuracy ? : because having a good accuracy doesn't necessarily means it's a good classifier (e.g in case of high class imbalance 0.9 1's and 0.1 0's, a classifier that predict only 1's will get a 90% accuracy)</p>
 
 <img src="img/AUC.png">
 
