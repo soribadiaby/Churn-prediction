@@ -1,6 +1,6 @@
 # Churn prediction project
 
-The goal of this project is to predict customer churn rate for a Telecom company using Data Analysis and Machine Learning techniques. With these predictions, a company can set up a targeted strategy for customer retention.
+The goal of this project is to predict customer churn rate for a Telecom company with Machine Learning. These predictions allow to set up a targeted strategy for customer retention.
 
 ## Run the code
 To see the project and run the code run "Telco-customer-churn.ipynb".
