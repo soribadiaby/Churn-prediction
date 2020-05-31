@@ -1,4 +1,4 @@
-# Churn prediction project
+# Churn prediction analysis and prediction
 
 The goal of this project is to predict customer churn rate for a telecom company with Machine Learning. These predictions allow to set up a targeted strategy for customer retention.
 
